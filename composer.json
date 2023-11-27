@@ -1,0 +1,7 @@
+{
+    "name": "luminexa/locale-data",
+    "description": "Language files of Luminexa Discord Bot.",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
